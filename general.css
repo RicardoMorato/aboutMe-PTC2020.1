@@ -13,4 +13,17 @@ body {
   font-family: 'Montserrat', sans-serif;
   background-color: #282c35;
   min-height: 100vh;
+  display: flex;
+  justify-self: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.section-subtitle {
+  font-size: 1.2rem;
+  align-self: flex-start;
+}
+
+.fa-instagram {
+  margin-right: 30px;
 }
