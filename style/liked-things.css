@@ -35,3 +35,63 @@
 .tloftr:hover {
   height: 450px;
 }
+
+@media (max-width: 1024px) {
+  .liked-things {
+    width: 70%;
+  }
+
+  .images-wrapper {
+    width: 70vw;
+  }
+
+  .liked-image {
+    width: 150px;
+  }
+
+  .liked-image:hover {
+    width: 350px;
+  }
+
+  .tloftr {
+    height: 150px;
+  }
+
+  .tloftr:hover {
+    height: 350px;
+  }
+}
+
+@media (max-width: 770px) {
+  .liked-image {
+    width: 120px;
+  }
+
+  .liked-image:hover {
+    width: 300px;
+  }
+
+  .tloftr {
+    height: 120px;
+  }
+
+  .tloftr:hover {
+    height: 300px;
+  }
+}
+
+@media (max-width: 500px) {
+  .images-wrapper {
+    flex-direction: column;
+  }
+
+  .liked-image {
+    width: 175px;
+    margin-bottom: 30px;
+  }
+
+  .tloftr {
+    height: 175px;
+  }
+}
+
