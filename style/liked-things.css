@@ -27,3 +27,11 @@
   width: 450px;
   transition: all ease .5s;
 }
+
+.tloftr {
+  height: 250px;
+}
+
+.tloftr:hover {
+  height: 450px;
+}
