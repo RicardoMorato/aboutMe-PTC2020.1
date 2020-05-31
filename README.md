@@ -1,2 +1,2 @@
-# aboutMe-PTC2020.1
-A simple, static, page made to teach the principles of HTML and CSS for CITi's 2020.1 PTC
+# Sobre mim - PTC 2020.1
+Uma página estática bem simples com o intuito de ensinar os conceitos básicos de HTML e CSS e de despertar a curiosidade dos Trainees do PTC de 2020.1 do CITi - UFPE
