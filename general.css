@@ -22,6 +22,7 @@ body {
 .section-subtitle {
   font-size: 1.2rem;
   align-self: flex-start;
+  grid-area: a;
 }
 
 .fa-instagram {
