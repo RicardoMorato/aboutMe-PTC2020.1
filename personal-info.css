@@ -1,0 +1,27 @@
+.personal-info {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+  height: 450px;
+}
+
+.photo {
+  width: 200px;
+  border-color: rgb(75, 70, 70);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 100px;
+}
+
+.content {
+  max-width: 500px;
+  text-align: center;
+}
+
+.social-media {
+  width: 200px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
